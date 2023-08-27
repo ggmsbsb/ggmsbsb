@@ -10,7 +10,6 @@
   <span style="font-size: 15px;">Comecei como desenvolvedor mobile, trabalhando com Flutter e Java, ampliando meu domínio no sistema Android. Recentemente fiz uma transição para focar integralmente em Java e suas tecnologias.</span>
 </p>
 
-
 <p align="center">
   <span style="font-size: 24px;">Informações de Contato</span>
 </p>
@@ -38,3 +37,9 @@
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+
+<p align="center">
+  <img alt="logo" src="https://github.com/ggmsbsb/ggmsbsb/assets/90357316/94d60cf0-c4f4-4b14-ad98-b4a462f25e42" />
+</p>
+
