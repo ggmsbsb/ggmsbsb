@@ -38,6 +38,16 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+<p align="center">
+  <span style="font-size: 24px;">Técnologias e Ferramentas</span>
+</p>
+
+<p align="center">
+  <img alt="androidstudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white>"
+  <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+  <img alt="mongodb" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
 
 <p align="center">
   <img alt="logo" src="https://github.com/ggmsbsb/ggmsbsb/assets/90357316/94d60cf0-c4f4-4b14-ad98-b4a462f25e42" />
