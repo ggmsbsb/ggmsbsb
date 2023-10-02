@@ -3,14 +3,6 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 24px;">Sobre</span>
-</p>
-
-<p align="justified">
-  <span style="font-size: 15px;">Comecei como desenvolvedor mobile, trabalhando com Flutter e Java, ampliando meu domínio no sistema Android. Recentemente fiz uma transição para focar integralmente em Java e suas tecnologias.</span>
-</p>
-
-<p align="center">
   <span style="font-size: 24px;">Informações de Contato</span>
 </p>
 
@@ -36,10 +28,6 @@
   <img alt="hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <span style="font-size: 24px;"></span>
 </p>
 
 <p align="center">
