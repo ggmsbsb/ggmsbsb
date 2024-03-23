@@ -30,16 +30,6 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 24px;">IDEs</span>
-</p>
-
-<p align="center">
-  <img alt="androidstudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</p>
-
-<p align="center">
   <span style="font-size: 24px;">Frameworks - Banco de dados - Ferramentas</span>
 </p>
 
