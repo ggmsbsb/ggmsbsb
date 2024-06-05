@@ -1,46 +1,24 @@
-<p align="center">
-  <span style="font-size: 32px;">Olá, eu sou o Guilherme</span>
-</p>
+# Olá, eu sou o Guilherme 👋
 
-<p align="center">
-  <span style="font-size: 24px;">Informações de Contato</span>
-</p>
+## Sobre Mim
+Sou formado em Ciência da Computação, atualmente cursando minha segunda graduação em Ciência de Dados e Machine Learning. 
 
-<p align="center">
-  <a href="https://github.com/ggmsbsb">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-g-557809289/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guibesb)
 
-<p align="center">
-  <span style="font-size: 24px;">Linguagem de Programação</span>
-</p>
+## Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-<p align="center">
-  <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+## Principais Linguagens
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggmsbsb&layout=compact&theme=midnight-purple)
 
-<p align="center">
-  <span style="font-size: 24px;">Frameworks - Banco de dados - Ferramentas</span>
-</p>
-
-<p align="center">
-  <img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="apache maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
-  <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img alt="mylogo" src="https://github.com/ggmsbsb/ggmsbsb/assets/90357316/94d60cf0-c4f4-4b14-ad98-b4a462f25e42" />
-</p>
+Sinta-se à vontade para conferir meus repositórios e entrar em contato!
