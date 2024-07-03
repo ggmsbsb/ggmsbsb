@@ -2,10 +2,12 @@
 
 Sou formado em Ciência da Computação, atualmente cursando minha segunda graduação em Ciência de Dados e Machine Learning. 
 
-## Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guibesb)
-
-## Tecnologias & Ferramentas
+### Conecte-se Comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/guibesb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ### Linguagens de Programação
 <div align="center">
