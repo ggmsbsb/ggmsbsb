@@ -36,9 +36,4 @@ Sou formado em Ciência da Computação, atualmente cursando minha segunda gradu
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </div>
 
-## Principais Linguagens
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggmsbsb&layout=compact&theme=midnight-purple" />
-</div>
-
 Sinta-se à vontade para conferir meus repositórios e entrar em contato!
