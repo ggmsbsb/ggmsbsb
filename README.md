@@ -1,7 +1,5 @@
 # Olá, eu sou o Guilherme 👋
 
-Sou formado em Ciência da Computação, atualmente cursando minha segunda graduação em Ciência de Dados e Machine Learning. 
-
 ### Conecte-se Comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/guibesb">
@@ -36,4 +34,5 @@ Sou formado em Ciência da Computação, atualmente cursando minha segunda gradu
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </div>
 
-Sinta-se à vontade para conferir meus repositórios e entrar em contato!
+
+### Sinta-se à vontade para conferir meus repositórios e entrar em contato!
