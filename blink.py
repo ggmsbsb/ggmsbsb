@@ -10,8 +10,8 @@ frame_duration = 50  # duração em milissegundos da animação
 frames = []
 
 for i in range(num_frames):
-    # Nova imagem de tamanho igual
-    frame = Image.new("RGBA", logo.size)
+    # Nova imagem de tamanho igual com fundo transparente
+    frame = Image.new("RGBA", logo.size, (0, 0, 0, 0))
     
     # Animação de piscar. Feito baseado na opacidade.
     draw = ImageDraw.Draw(frame)
