@@ -3,7 +3,7 @@
 </div>
 
 ### Sobre Mim
-Minha trajetória começou no desenvolvimento, com experiência em Java para Android e backend com Java e Spring, o que me proporcionou uma sólida base técnica. No entanto, ao iniciar minha segunda graduação em Ciência de Dados e Machine Learning, encontrei minha verdadeira paixão: dados. A combinação de desenvolvimento, estatística e aprendizado de máquina me fascinou, e desde então, tenho me dedicado a essa área. Ainda assim, de vez em quando, gosto de desenvolver algo novo.
+Minha trajetória começou no desenvolvimento, com experiência em Java para Android e backend com Java e Spring, o que me proporcionou uma sólida base técnica. No entanto, ao iniciar minha segunda graduação em Ciência de Dados e Machine Learning, percebi o quanto gostava da área de dados. A combinação de desenvolvimento, estatística e aprendizado de máquina me fascinou, e desde então, tenho me dedicado a essa área. Ainda assim, de vez em quando, gosto de desenvolver algo novo.
 
 ### Meus Projetos
 

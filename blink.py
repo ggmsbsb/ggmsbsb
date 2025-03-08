@@ -25,4 +25,4 @@ for i in range(num_frames):
     frames.append(frame)
 
 # Salvar os frames como um GIF
-frames[0].save("logo_blink.gif", save_all=True, append_images=frames[1:], duration=frame_duration, loop=0, transparency=0)
+frames[0].save("logo_blink.gif", save_all=True, append_images=frames[1:], duration=frame_duration, loop=0, transparency=0, disposal=2)
