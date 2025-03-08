@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="alt text" width="50"/>
+  <img src="logo_blink.gif" alt="alt text" width="50"/>
 </div>
 
 ### Sobre Mim
