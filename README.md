@@ -41,7 +41,8 @@ class AboutMe {
         System.out.println("Sobre Mim");
         System.out.println("Experiência em Java para Android e backend com Java e Spring.");
         System.out.println("Graduado em Ciência da Computação e segunda graduação em Ciência de Dados e Machine Learning.");
-        System.out.println("A combinação de desenvolvimento, estatística e aprendizado de máquina me empolgou, e desde então, tenho me dedicado a essa área.");
+        System.out.println("A combinação de desenvolvimento, estatística e aprendizado de máquina me empolgou.");
+        System.out.println("Desde então, tenho me dedicado a essa área.");
         System.out.println("Ainda assim, de vez em quando, gosto de desenvolver algo novo.");
     }
 }
