@@ -5,14 +5,14 @@
 <br/>
 
 ```java
-public class Portfolio {
+public class GitHub {
 
     public static void main(String[] args) {
-        Portfolio portfolio = new Portfolio();
-        portfolio.exibirAboutMe();
-        portfolio.exibirProjects();
-        portfolio.exibirSkills();
-        portfolio.exibirLinkedIn();
+        GitHub GitHub = new GitHub();
+        GitHub.exibirAboutMe();
+        GitHub.exibirProjects();
+        GitHub.exibirSkills();
+        GitHub.exibirLinkedIn();
     }
 
     public void exibirAboutMe() {
