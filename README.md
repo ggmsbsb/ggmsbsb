@@ -2,6 +2,8 @@
   <img src="logo_blink.gif" alt="alt text" width="100"/>
 </div>
 
+<br/>
+
 ```java
 public class Portfolio {
 
