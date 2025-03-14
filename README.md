@@ -58,7 +58,7 @@ class Projects {
 class Skills {
     public void exibir() {
         System.out.println("Habilidades e Tecnologias");
-        System.out.println(" - Linguagens de Programação: Java, Python, JavaScript");
+        System.out.println(" - Linguagens de Programação: Java, Python, R");
         System.out.println(" - Frameworks: Spring, TensorFlow, Keras, Flask");
         System.out.println(" - Ferramentas de Análise de Dados: Pandas, NumPy, Matplotlib");
         System.out.println(" - Banco de Dados: MySQL, PostgreSQL, MongoDB");
