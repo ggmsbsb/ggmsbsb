@@ -5,14 +5,14 @@
 <br/>
 
 ```java
-public class Portfolio {
+public class GitHub {
 
     public static void main(String[] args) {
-        Portfolio portfolio = new Portfolio();
-        portfolio.exibirAboutMe();
-        portfolio.exibirProjects();
-        portfolio.exibirSkills();
-        portfolio.exibirLinkedIn();
+        GitHub GitHub = new GitHub();
+        GitHub.exibirAboutMe();
+        GitHub.exibirProjects();
+        GitHub.exibirSkills();
+        GitHub.exibirLinkedIn();
     }
 
     public void exibirAboutMe() {
@@ -57,13 +57,12 @@ class Projects {
 
 class Skills {
     public void exibir() {
-        System.out.println("Habilidades");
-        System.out.println(" - Linguagens: Python, Java (17, 21), R");
-        System.out.println(" - Análise & Dados: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, OpenCV, OpenCL");
-        System.out.println(" - Machine Learning & Deep Learning: TensorFlow, Keras, Scikit-learn, PCA, K-Means Clustering, Random Forest, PyTorch");
-        System.out.println(" - Bancos de Dados: MySQL, PostgreSQL, SQL Server, Firebase");
-        System.out.println(" - Desenvolvimento: Spring Framework, Hibernate, Maven, APIs RESTful");
-        System.out.println(" - Ferramentas & Outros: Git, Selenium, Beautiful Soup, Power BI");
+        System.out.println("Habilidades e Tecnologias");
+        System.out.println(" - Linguagens de Programação: Java, Python, JavaScript");
+        System.out.println(" - Frameworks: Spring, TensorFlow, Keras, Flask");
+        System.out.println(" - Ferramentas de Análise de Dados: Pandas, NumPy, Matplotlib");
+        System.out.println(" - Banco de Dados: MySQL, PostgreSQL, MongoDB");
+        System.out.println(" - Outros: Git, Docker");
     }
 }
 
